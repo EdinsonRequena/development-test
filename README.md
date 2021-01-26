@@ -4,7 +4,7 @@
 
 2) Crea una nueva rama con tu nombre de usuario.
 
-3) Crea 2 carpetas, en una estran las soluciones en python y en otra las soluciones en Javascritpt.
+3) Crea 2 carpetas, en una estaran las soluciones en python y en otra las soluciones en Javascritpt.
 
 4) Una vez terminado los ejercicios haz un pull request a este mismo repositorio.
 
