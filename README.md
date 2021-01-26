@@ -26,7 +26,7 @@ Si tiene 5 como factor, agregue ‘Plac’ al resultado.
 
 Si tiene 7 como factor, agregue ‘Ploc’ al resultado.
 
-Si no tiene 3, 5 o 7 como factor, el resultado deben el numero como cadena de texto(string) y no como entero(int)
+Si no tiene 3, 5 o 7 como factor, el resultado debe retornar el numero como cadena de texto(string) y no como entero(int)
 
 
 Ejemplos:
