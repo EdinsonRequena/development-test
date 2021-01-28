@@ -1,9 +1,8 @@
 import random
-cadena = []
 i = 0
 def convertirAString(numero):
     print("Numero limite: "+str(numero))
-    for i in range(1,numero):
+    for i in range(0,numero):
         salida =""
         if i%3==0:
             salida+= "Plic"
