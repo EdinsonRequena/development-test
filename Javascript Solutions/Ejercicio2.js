@@ -1,7 +1,7 @@
 var salida ="";
 function convertirAString(numero){
     console.log("Numero limite: "+numero);
-    for (i=1;i<=numero;i++){
+    for (i=0;i<=numero;i++){
         salida ="";
         if(i%3==0){
             salida+="Plic";
